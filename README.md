@@ -1,5 +1,7 @@
 # Reel
 
+fork of dropper-deno 
+
 Dropper is a custom **Event-driven WebSocket framework** for Deno, using the deno-std ws module as base.
 
 > Send and receive notifications, messages, updates and any data, all in real-time with custom events and methods served on your own, Dropper is Open Source, self-served and FREE forever!
