@@ -1,4 +1,4 @@
-# Dropper
+# Reel
 
 Dropper is a custom **Event-driven WebSocket framework** for Deno, using the deno-std ws module as base.
 
